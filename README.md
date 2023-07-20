@@ -1,2 +1,8 @@
-# 1C-SchoolLibrary
-1C-School Library is a software solution for automating the work of a school librarian.
+![image](https://github.com/davidUtr/1C-SchoolLibrary/assets/139981374/65895dd7-e5fd-4b8e-972b-ed1696bee53d)# 1C-SchoolLibrary
+The 1C School Library system is an excellent solution for automating the work of a school librarian. It allows you to effectively manage the library fund, monitor the movement of books and issue reports on the work of the library. 
+The QR code generation function is necessary to speed up the process of issuing books. QR codes contain information about the book and the subscriber, which allows the librarian to quickly and accurately identify the book when it is issued and returned. Also, the generation of QR codes simplifies the process of accounting books in the library and allows you to quickly determine which books are in the hands of subscribers.
+![image](https://github.com/davidUtr/1C-SchoolLibrary/assets/139981374/491d9aca-8cf1-4c4f-917f-8c7240eae243)
+books can be issued, written off and registered. When a book is given to a student, it is marked in the system as "issued", and when it is returned, it is marked as "accepted". If the book is outdated or damaged, it may be written off from the library. All these operations are displayed in the system so that the librarian can monitor the movement of the book and the status of their availability. The system also allows you to make logs of the issuance and accounting of books, which helps the librarian in his work.
+![image](https://github.com/davidUtr/1C-SchoolLibrary/assets/139981374/4adcc014-8bf9-4971-be20-c1986066db4d)
+The system of the automated workplace of the school librarian allows you to generate reports on the movement of books, copies issued, books written off and accepted, as well as on the availability of books in the library. The librarian can receive these reports in a convenient format (for example, in the form of tables)
+![image](https://github.com/davidUtr/1C-SchoolLibrary/assets/139981374/a00394ba-3925-45fb-a2d3-8b9026474d4d)
